@@ -4,6 +4,7 @@ version = "0.1.2"
 description = ""
 authors = ["Yogesh Sharma <yks0000@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/yks0000/mynetwork"
 packages = [{include = "mynetwork", from = "src"}]
 
 [tool.poetry.scripts]
